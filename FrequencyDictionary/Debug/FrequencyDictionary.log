@@ -1,0 +1,12 @@
+﻿  dictionary.c
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\dictionary.c(7,15): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\dictionary.c(56,21): warning C4090: функция: разные квалификаторы "const"
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\dictionary.c(68,19): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\dictionary.c(117,27): warning C4090: функция: разные квалификаторы "const"
+  list.c
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\list.c(19,32): warning C4013: strdup: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\list.c(19,37): warning C4047: =: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\dpers\source\repos\FrequencyDictionary\FrequencyDictionary\list.c(53,15): warning C4013: strcmp: нет определения; предполагается "extern" с возвратом типа "int"
+  main.c
+  Создание кода...
+  FrequencyDictionary.vcxproj -> C:\Users\dpers\source\repos\FrequencyDictionary\Debug\FrequencyDictionary.exe
